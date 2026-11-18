@@ -1,0 +1,33 @@
+
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+*.env
+!.env.example
+!*.env.example
+
+# Python testing
+.pytest_cache/
+.coverage
+
+# IDE files
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
+
+# Raw scraped inventories
+data/raw/*
+!data/raw/.gitkeep
+
+# Processed data: include only deployment datasets
+data/processed/*
+!data/processed/property_url_catalog.json
+!data/processed/verified_wasalt_samples.json
+!data/processed/.gitkeep

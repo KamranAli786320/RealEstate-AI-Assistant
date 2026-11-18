@@ -1,0 +1,19 @@
+
+{
+  "source": "Wasalt",
+  "collection_type": "Single manually verified sample",
+  "records": [
+    {
+      "url": "https://wasalt.sa/en/property/rent/apartment-10372-sqm-with-2-bedrooms-5924260",
+      "title": "Apartment 103.72 SQM with 2 Bedrooms For Rent",
+      "property_type": "apartment",
+      "transaction_type": "rent",
+      "area_sqm": 103.72,
+      "bedrooms": 2,
+      "price": 68000,
+      "currency": "SAR",
+      "price_period": "year",
+      "verification_status": "verified_from_page"
+    }
+  ]
+}
